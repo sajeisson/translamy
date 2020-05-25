@@ -1,0 +1,2 @@
+# translamy
+Bitácora de encuestas
